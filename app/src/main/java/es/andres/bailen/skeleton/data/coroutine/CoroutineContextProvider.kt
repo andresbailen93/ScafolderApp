@@ -1,4 +1,4 @@
-package es.andres.bailen.scafolderApp.data.coroutine
+package es.andres.bailen.skeleton.data.coroutine
 
 import kotlinx.coroutines.Dispatchers
 import kotlin.coroutines.CoroutineContext

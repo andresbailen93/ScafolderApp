@@ -9,7 +9,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "es.andres.bailen.scafolderapp"
+        applicationId "es.andres.bailen.skeleton"
         minSdk 21
         targetSdk 31
         versionCode 1
@@ -41,7 +41,7 @@ ext {
     koinVersion = '3.1.5'
     workVersion = '2.7.1'
     coroutinesAndroidVersion = '1.5.2'
-    navVersion = '2.4.1'
+    navVersion = '2.4.2'
 }
 
 dependencies {

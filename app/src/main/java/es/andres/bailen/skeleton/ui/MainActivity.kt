@@ -1,11 +1,8 @@
-package es.andres.bailen.scafolderApp.ui
+package es.andres.bailen.skeleton.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import es.andres.bailen.scafolderApp.R
-import es.andres.bailen.scafolderApp.databinding.ActivityMainBinding
-import es.andres.bailen.scafolderApp.ui.viewModel.MainViewModel
-import org.koin.androidx.viewmodel.ext.android.viewModel
+import androidx.appcompat.app.AppCompatActivity
+import es.andres.bailen.skeleton.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

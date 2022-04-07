@@ -5,6 +5,6 @@
     app:startDestination="@id/mainNavFragment">
     <fragment
         android:id="@+id/mainNavFragment"
-        android:name="es.andres.bailen.scafolderApp.ui.fragments.main.MainNavFragment"
+        android:name="es.andres.bailen.skeleton.ui.fragments.main.MainNavFragment"
         android:label="MainNavFragment" />
 </navigation>

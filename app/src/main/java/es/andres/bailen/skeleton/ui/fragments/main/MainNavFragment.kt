@@ -1,13 +1,13 @@
-package es.andres.bailen.scafolderApp.ui.fragments.main
+package es.andres.bailen.skeleton.ui.fragments.main
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
-import es.andres.bailen.scafolderApp.databinding.FragmentMainNavBinding
-import es.andres.bailen.scafolderApp.ui.fragments.BaseFragment
-import es.andres.bailen.scafolderApp.ui.viewModel.MainViewModel
+import es.andres.bailen.skeleton.databinding.FragmentMainNavBinding
+import es.andres.bailen.skeleton.ui.fragments.BaseFragment
+import es.andres.bailen.skeleton.ui.viewModel.MainViewModel
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class MainNavFragment: BaseFragment() {

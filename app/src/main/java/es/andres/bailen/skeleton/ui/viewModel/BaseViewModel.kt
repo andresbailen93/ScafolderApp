@@ -1,7 +1,7 @@
-package es.andres.bailen.scafolderApp.ui.viewModel
+package es.andres.bailen.skeleton.ui.viewModel
 
 import androidx.lifecycle.ViewModel
-import es.andres.bailen.scafolderApp.data.coroutine.CoroutineContextProvider
+import es.andres.bailen.skeleton.data.coroutine.CoroutineContextProvider
 import org.koin.core.component.KoinComponent
 import org.koin.core.component.inject
 

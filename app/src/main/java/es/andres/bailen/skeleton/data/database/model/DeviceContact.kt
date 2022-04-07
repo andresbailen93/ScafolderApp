@@ -1,4 +1,4 @@
-package es.andres.bailen.scafolderApp.data.database.model
+package es.andres.bailen.skeleton.data.database.model
 
 import androidx.room.Entity
 import androidx.room.Index

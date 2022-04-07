@@ -1,1 +1,1 @@
-# ScafolderApp
+# SkeletonApp

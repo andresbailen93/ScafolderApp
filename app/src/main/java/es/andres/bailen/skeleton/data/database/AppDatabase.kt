@@ -1,9 +1,9 @@
-package es.andres.bailen.scafolderApp.data.database
+package es.andres.bailen.skeleton.data.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import es.andres.bailen.scafolderApp.data.database.dao.DeviceContactDao
-import es.andres.bailen.scafolderApp.data.database.model.DeviceContact
+import es.andres.bailen.skeleton.data.database.dao.DeviceContactDao
+import es.andres.bailen.skeleton.data.database.model.DeviceContact
 
 
 @Database(entities = [DeviceContact::class], version = 1)

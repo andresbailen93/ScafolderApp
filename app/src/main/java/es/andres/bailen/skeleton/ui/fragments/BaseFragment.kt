@@ -1,9 +1,9 @@
-package es.andres.bailen.scafolderApp.ui.fragments
+package es.andres.bailen.skeleton.ui.fragments
 
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
-import es.andres.bailen.scafolderApp.data.coroutine.CoroutineContextProvider
+import es.andres.bailen.skeleton.data.coroutine.CoroutineContextProvider
 import org.koin.android.ext.android.inject
 
 abstract class BaseFragment: Fragment() {

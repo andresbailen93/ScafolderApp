@@ -1,9 +1,9 @@
-package es.andres.bailen.scafolderApp.data.database.dao
+package es.andres.bailen.skeleton.data.database.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
-import es.andres.bailen.scafolderApp.data.database.model.DeviceContact
+import es.andres.bailen.skeleton.data.database.model.DeviceContact
 
 @Dao
 interface DeviceContactDao {

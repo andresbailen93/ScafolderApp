@@ -1,11 +1,11 @@
-package es.andres.bailen.scafolderApp.di
+package es.andres.bailen.skeleton.di
 
 import androidx.room.Room
 import androidx.work.WorkManager
-import es.andres.bailen.scafolderApp.data.coroutine.CoroutineContextProvider
-import es.andres.bailen.scafolderApp.data.database.AppDatabase
-import es.andres.bailen.scafolderApp.data.repository.ContactsRepo
-import es.andres.bailen.scafolderApp.ui.viewModel.MainViewModel
+import es.andres.bailen.skeleton.data.coroutine.CoroutineContextProvider
+import es.andres.bailen.skeleton.data.database.AppDatabase
+import es.andres.bailen.skeleton.data.repository.ContactsRepo
+import es.andres.bailen.skeleton.ui.viewModel.MainViewModel
 import org.koin.android.ext.koin.androidApplication
 import org.koin.android.ext.koin.androidContext
 import org.koin.androidx.viewmodel.dsl.viewModel
